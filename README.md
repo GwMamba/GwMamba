@@ -37,7 +37,7 @@
     ![Redmine](https://img.shields.io/badge/redmine-708090?logo=redmine)&nbsp;
     ![ngrok](https://img.shields.io/badge/ngrok-6B8E23?logo=ngrok)&nbsp;    
     ![Heroku](https://img.shields.io/badge/heroku-FFFF00?logo=heroku)&nbsp;
-    ![Netlify](https://img.shields.io/badge/netlify-05122A?logo=netlify)&nbsp;
+    ![Netlify](https://img.shields.io/badge/netlify-98FB98?logo=netlify)&nbsp;
     ![Axios](https://img.shields.io/badge/axios-FFA500?logo=axios)&nbsp;
     ![Stripe](https://img.shields.io/badge/stripe-FF4500?logo=stripe)&nbsp;
     ![Zoom](https://img.shields.io/badge/zoom-008000?logo=zoom)&nbsp;
