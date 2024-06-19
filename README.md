@@ -1,11 +1,12 @@
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Frameworks, and Tools
   
-    ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
-    ![React](https://img.shields.io/badge/React-red?logo=React)&nbsp;
+    ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
+    ![React](https://img.shields.io/badge/-React-red?logo=React)&nbsp;
     ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
-    ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
+    ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
+    ![HTML](https://img.shields.io/badge/-HTML?logo=HTML)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
