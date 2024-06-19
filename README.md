@@ -13,7 +13,7 @@
     ![Ruby](https://img.shields.io/badge/-Ruby-C0C0C0?style=flat&logo=Ruby)&nbsp;
     ![RubyOnRails](https://img.shields.io/badge/-RubyonRails-008000?style=flat&logo=RubyonRails)&nbsp;
     ![HTML5](https://img.shields.io/badge/-html5-008080?style=flat&logo=html5)&nbsp;
-    ![CSS3](https://img.shields.io/badge/-css3-1E90FF?style=flat&logo=css3)&nbsp;
+    ![CSS3](https://img.shields.io/badge/-css3-FFC0CB?style=flat&logo=css3)&nbsp;
     ![Sass](https://img.shields.io/badge/sass-blue?logo=sass)&nbsp;
     ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-CD5C5C?logo=tailwindcss)&nbsp;
     ![Django](https://img.shields.io/badge/django-00FA9A?logo=django)&nbsp;
