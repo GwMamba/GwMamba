@@ -3,8 +3,8 @@
   
     ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
     ![react](https://img.shields.io/badge/logo-react-red?logo=React)&nbsp;
-    ![RubyonRails](https://img.shields.io/badge/-RubyonRails-05122A?style=flat&logo=RubyonRails)&nbsp;
-    ![React](https://img.shields.io/badge/logo-react-05122A?style=flat&logo=RubyonRails)&nbsp;
+    ![RubyonRails](https://img.shields.io/badge/-RubyonRails-blue?style=flat&logo=RubyonRails)&nbsp;
+    ![RubyonRails](https://img.shields.io/badge/logo-react-05122A?style=flat&logo=RubyonRails)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
