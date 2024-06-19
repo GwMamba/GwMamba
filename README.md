@@ -8,8 +8,9 @@
     ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
     ![Sass](https://img.shields.io/badge/sass-blue?logo=sass)&nbsp;
     ![TailwindCSS](https://img.shields.io/badge/TailwindCSS?logo=tailwindcss)&nbsp;
-    ![django](https://img.shields.io/badge/django?logo=django)&nbsp;
-    ![Node.js](https://img.shields.io/badge/nodedotjs?logo=nodedotjs)&nbsp;
+    ![django](https://img.shields.io/badge/django-05122A?logo=django)&nbsp;
+    ![nodedotjs](https://img.shields.io/badge/nodedotjs-05122A?logo=nodedotjs)&nbsp;
+    ![express](https://img.shields.io/badge/nodedotjs-05122A?logo=nodedotjs)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
