@@ -15,7 +15,7 @@
     ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     ![CSS3](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
     ![Sass](https://img.shields.io/badge/sass-blue?logo=sass)&nbsp;
-    ![TailwindCSS](https://img.shields.io/badge/tailwindcss?logo=tailwindcss)&nbsp;
+    ![tailwindcss](https://img.shields.io/badge/tailwindcss?logo=tailwindcss)&nbsp;
     ![Django](https://img.shields.io/badge/django-05122A?logo=django)&nbsp;
     ![nodedotjs](https://img.shields.io/badge/nodedotjs-05122A?logo=nodedotjs)&nbsp;
     ![PostgreSQL](https://img.shields.io/badge/postgresql-05122A?logo=postgresql)&nbsp;
