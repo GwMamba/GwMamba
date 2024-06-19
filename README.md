@@ -1,7 +1,7 @@
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages
   
-    ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
+    ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/logo-rubyonrails-red?logo=rubyonrails)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-05122A?style=flat&logo=RubyonRails)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
