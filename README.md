@@ -1,10 +1,10 @@
 ## 🛠️Tech Stack
-- 👩‍💻 Programming Languages
+- 👩‍💻 Programming Languages, Frameworks, and Tools
   
     ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)&nbsp;
     ![React](https://img.shields.io/badge/React-red?logo=React)&nbsp;
-    ![Ruby](https://img.shields.io/badge/-Ruby-blue?style=flat&logo=Ruby)&nbsp;
-    ![RubyonRails](https://img.shields.io/badge/logo-react-05122A?style=flat&logo=RubyonRails)&nbsp;
+    ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
+    ![C](https://img.shields.io/badge/-C%23%20-05122A?style=flat&logo=c-sharp)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
