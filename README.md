@@ -6,8 +6,10 @@
     ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
     ![RubyOnRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
-    ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)&nbsp;
-    ![TailwindCSS](https://img.shields.io/badge/-tailwindcss?logo=tailwindcss)&nbsp;
+    ![Sass](https://img.shields.io/badge/sass-blue?logo=sass)&nbsp;
+    ![TailwindCSS](https://img.shields.io/badge/TailwindCSS?logo=tailwindcss)&nbsp;
+    ![django](https://img.shields.io/badge/django?logo=django)&nbsp;
+    ![Node.js](https://img.shields.io/badge/nodedotjs?logo=nodedotjs)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
