@@ -7,8 +7,8 @@
     ![RubyOnRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
     ![Sass](https://img.shields.io/badge/sass-blue?logo=sass)&nbsp;
-    ![tailwindcss](https://img.shields.io/badge/TailwindCSS?logo=tailwindcss)&nbsp;
-    ![django](https://img.shields.io/badge/django-05122A?logo=django)&nbsp;
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss?logo=tailwindcss)&nbsp;
+    ![Django](https://img.shields.io/badge/django-05122A?logo=django)&nbsp;
     ![nodedotjs](https://img.shields.io/badge/nodedotjs-05122A?logo=nodedotjs)&nbsp;
     ![express](https://img.shields.io/badge/express-05122A?logo=express)&nbsp;
     
