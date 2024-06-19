@@ -4,10 +4,10 @@
     ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
     ![React](https://img.shields.io/badge/-React-red?logo=React)&nbsp;
     ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
-    ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
+    ![RubyOnRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp;
     ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)&nbsp;
-    ![Tailwind CSS](https://img.shields.io/badge/tailwindcss?logo=tailwindcss)&nbsp;
+    ![TailwindCSS](https://img.shields.io/badge/-tailwindcss?logo=tailwindcss)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
