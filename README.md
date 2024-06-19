@@ -4,6 +4,7 @@
     ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/logo-rubyonrails-red?logo=rubyonrails)&nbsp;
     ![RubyonRails](https://img.shields.io/badge/-RubyonRails-05122A?style=flat&logo=RubyonRails)&nbsp;
+    ![RubyonRails](https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=RubyonRails)&nbsp;
     
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Bash](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)&nbsp;
