@@ -4,7 +4,7 @@
 
 <p>I'm a Full-Stack Web Developer focused on building beautiful and responsive web applications. 
 
-I've been working with technology since 2010, where I grew a interest in computers and electrinics. This led me to become an Aircraft Computer and Electronics Engineer. With time, I gained a  strong and deep passion for web development. During this time I worked with the most diverse types of projects. I have an interest in Virtual and Artificial Reality![alt text](9998378.png), Artificial Intelligence, Cyber Security and Machine Learning. 
+I've been working with technology since 2010, where I grew a interest in computers and electrinics. This led me to become an Aircraft Computer and Electronics Engineer. With time, I gained a  strong and deep passion for web development. During this time I worked with the most diverse types of projects. I have an interest in Virtual and Artificial Reality, Artificial Intelligence, Cyber Security and Machine Learning. 
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Frameworks, and Tools
@@ -47,12 +47,14 @@ I've been working with technology since 2010, where I grew a interest in compute
 <br>
 
 ## 👩‍💻 About me
-* I am Canadian 🇨🇦  living in Japan 🇯🇵
+* I am Canadian ![alt text](5298445.png) living in Japan ![alt text](flag_flags_country-05-512.webp)
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> I Love Computers and Programming.
 * !(https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp; My favorite programming language is Javascript 
 * 👩‍🏫 I Love sharing knowledge
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
 * 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, 
+![alt text](9998378.png) In my free time, you will find me in virtual reality flying realistic flight simulators.
+
 
 <br>
 
