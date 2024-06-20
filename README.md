@@ -44,6 +44,12 @@ I've been working with technology since 2010, where I grew a interest in compute
     ![Zoom](https://img.shields.io/badge/zoom-008000?logo=zoom)&nbsp;
     ![ReadMe](https://img.shields.io/badge/readme-A52A2A?logo=readme)&nbsp;
 
+<br>
 
+## 👩‍💻 About me
+* <img width="16" src="http://emojipedia.org/flag-for-canada/ " alt="Canada" /> I'm from Canada
+
+
+<br>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
