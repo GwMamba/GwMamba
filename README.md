@@ -1,9 +1,10 @@
+![Header](gerald_header.jpg "Header")
 
+# Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
+<p>I'm a Full-Stack Web Developer focused on building beautiful and responsive web applications. 
 
-
-
-
+I've been working with technology since 2010, where I grew a interest in computers and electrinics. This led me to become an Aircraft Computer and Electronics Engineer. With time, I gained a  strong and deep passion for web development. During this time I worked with the most diverse types of projects. I have an interest in Artificial Intelligence and Cyber Security and Machine Learning. 
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages, Frameworks, and Tools
