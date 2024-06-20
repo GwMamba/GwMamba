@@ -47,13 +47,12 @@ I've been working with technology since 2010, where I grew a interest in compute
 <br>
 
 ## 👩‍💻 About me
-* I am Canadian ![alt text](5298445.png) living in Japan ![alt text](flag_flags_country-05-512.webp)
+* I am Canadian living in Japan 
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> I Love Computers and Programming.
-* !(https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp; My favorite programming language is Javascript 
-* 👩‍🏫 I Love sharing knowledge
-* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
+* ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp; My favorite programming language is Javascript 
+* 👩‍🏫 I Love learning and sharing knowledge
 * 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, 
-![alt text](9998378.png) In my free time, you will find me in virtual reality flying realistic flight simulators.
+* In my free time, you will find me in virtual reality flying realistic flight simulators.
 
 
 <br>
