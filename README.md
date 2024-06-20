@@ -51,7 +51,7 @@ I've been working with technology since 2010, where I grew a interest in compute
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> I Love Computers and Programming.
 * ![Javascript](https://img.shields.io/badge/-javascript-blue?logo=javascript)&nbsp; My favorite programming language is Javascript 
 * 👩‍🏫 I Love learning and sharing knowledge
-* 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, 
+* 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above.
 * In my free time, you will find me in virtual reality flying realistic flight simulators.
 
 
