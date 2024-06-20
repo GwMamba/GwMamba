@@ -1,9 +1,9 @@
 name: Github-Profile-3D-Contrib
 
 on:
-  schedule: # 00:00 JST = 15:00 UTC
-    - cron: '0 15 * * *'
-    workflow_dispatch:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
