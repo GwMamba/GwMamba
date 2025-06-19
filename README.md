@@ -56,5 +56,3 @@ I've been working with technology since 2010, where I grew a interest in compute
 
 
 <br>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
