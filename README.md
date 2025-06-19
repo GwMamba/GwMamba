@@ -83,7 +83,7 @@ I'm actively building and iterating on multiple full-stack SaaS products — app
 
 ## 👤 About Me
 
-- 🇨🇦 Canadian developer based in Tokyo — blending global perspective with local insight.
+- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e6.svg" width="20"/> Canadian developer based in Tokyo <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg" width="20"/> — blending global perspective with local insight.
 - ✈️ Former avionics engineer → now building systems that scale on the web.
 - 🧠 Passionate about usable, performant apps with clear business value.
 - 🗣️ Studying Japanese (JLPT N3) to collaborate across language barriers.
