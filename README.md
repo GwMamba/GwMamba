@@ -24,7 +24,7 @@ I'm actively building and iterating on multiple full-stack SaaS products — app
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-CD5C5C?logo=tailwindcss)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-6495ED?logo=jquery)&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-40E0D0?logo=ejs)&nbsp;
-![WCAG](https://img.shields.io/badge/-Accessibility-WCAG-44cc11?logo=accessibility)&nbsp;
+
 
 ---
 
@@ -45,26 +45,31 @@ I'm actively building and iterating on multiple full-stack SaaS products — app
 
 ### 🗃️ Databases & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EEE8AA?logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-8FBC8F?logo=linux)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-00CED1?logo=powershell)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-FFFF00?logo=heroku)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-98FB98?logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-FFB6C1?logo=vercel)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)&nbsp;
 ![ngrok](https://img.shields.io/badge/-ngrok-6B8E23?logo=ngrok)&nbsp;
 
 ---
 
 ### 🧪 Testing & QA
 
-![Mocha](https://img.shields.io/badge/-Mocha-D2691E?logo=mocha)&nbsp;
-![Slint](https://img.shields.io/badge/-Slint-D2B48C?logo=slint)&nbsp;
-![RSpec](https://img.shields.io/badge/-RSpec-FAAFBA?logo=ruby)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)&nbsp;
+![WSL2](https://img.shields.io/badge/-WSL2-008080?logo=windows)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions)&nbsp;
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-A1C935?logo=githubactions)&nbsp;
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest)&nbsp;
+![RSpec](https://img.shields.io/badge/-RSpec-FAAFBA?logo=ruby)&nbsp;
+![Slint](https://img.shields.io/badge/-Slint-D2B48C?logo=slint)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash)&nbsp;
 
 ---
 
