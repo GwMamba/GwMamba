@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub!
 
-<p>I'm a Full-Stack Web Developer based in Tokyo 🇯🇵, originally trained as an Aircraft Computer & Electronics Engineer in Canada 🇨🇦. I bring that same precision and systems thinking into software — where I design and ship fast, accessible, and user-focused web applications.
+<p>I am a Full-Stack Web Developer, originally trained as an Aircraft Computer & Electronics Engineer in Canada 🇨🇦. I bring that same precision and systems thinking into software — where I design and ship fast, accessible, and user-focused web applications.
 
 I'm actively building and iterating on multiple full-stack SaaS products — applying product thinking, user feedback, and fast execution to ship tools that solve high-impact problems, not just add features.
 
@@ -88,7 +88,7 @@ I'm actively building and iterating on multiple full-stack SaaS products — app
 
 ## 👤 About Me
 
-- Canadian developer based in Tokyo — blending global perspective with local insight.
+- Canadian developer — blending global perspective with local insight.
 - ✈️ Former avionics engineer → now building systems that scale on the web.
 - 🧠 Passionate about usable, performant apps with clear business value.
 - 🗣️ Studying Japanese (JLPT N3) to collaborate across language barriers.
